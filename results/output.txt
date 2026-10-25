@@ -1,0 +1,20 @@
+
+Expression: (45) - (19)
+First operand  : 00101101
+Second operand : 11101101
+Binary addition: 00101101 + 11101101
+Result (binary): 00011010
+Result (decimal): 26
+Expected decimal: 26
+Overflow: No
+Verification: Correct
+
+Expression: (-35) - (-12)
+First operand  : 11011101
+Second operand : 00001100
+Binary addition: 11011101 + 00001100
+Result (binary): 11101001
+Result (decimal): -23
+Expected decimal: -23
+Overflow: No
+Verification: Correct
